@@ -1,1 +1,14 @@
 
+*
+{
+    margin:0;
+        padding:0;
+}
+    #particles-js{
+        background-image:url(image.jpg);
+        height:100vh;
+        background-size:cover;
+        background-position:center;
+    }
+    
+}
